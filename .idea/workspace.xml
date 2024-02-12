@@ -5,11 +5,11 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="8654cdc9-b4d1-4a36-8641-a9c00b7d3d6e" name="Changes" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/e2e-text-summarization.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/e2e-text-summarization.iml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/main.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/requirements.txt" beforeDir="false" afterPath="$PROJECT_DIR$/requirements.txt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/setup.py" beforeDir="false" afterPath="$PROJECT_DIR$/setup.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/research/trials.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/research/trials.ipynb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/textSummarizer/logging/__init__.py" beforeDir="false" afterPath="$PROJECT_DIR$/src/textSummarizer/logging/__init__.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/textSummarizer/utils/common.py" beforeDir="false" afterPath="$PROJECT_DIR$/src/textSummarizer/utils/common.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -40,6 +40,7 @@
   </component>
   <component name="PropertiesComponent"><![CDATA[{
   "keyToString": {
+    "Python.main.executor": "Run",
     "Python.template.executor": "Run",
     "RunOnceActivity.OpenProjectViewOnStart": "true",
     "RunOnceActivity.ShowReadmeOnStart": "true",
@@ -74,7 +75,7 @@
       <option name="presentableId" value="Default" />
       <updated>1707390195924</updated>
       <workItem from="1707390204335" duration="2878000" />
-      <workItem from="1707396150527" duration="2711000" />
+      <workItem from="1707396150527" duration="5177000" />
     </task>
     <servers />
   </component>
@@ -83,5 +84,6 @@
   </component>
   <component name="com.intellij.coverage.CoverageDataManagerImpl">
     <SUITE FILE_PATH="coverage/e2e_text_summarization$template.coverage" NAME="template Coverage Results" MODIFIED="1707391804786" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/E2E-Text-Summarizer" />
+    <SUITE FILE_PATH="coverage/e2e_text_summarization$main.coverage" NAME="main Coverage Results" MODIFIED="1707722353747" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
   </component>
 </project>
