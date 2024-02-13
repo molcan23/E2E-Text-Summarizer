@@ -5,10 +5,10 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="8654cdc9-b4d1-4a36-8641-a9c00b7d3d6e" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/main.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/research/Text_Summarization.ipynb" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/research/trials.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/research/trials.ipynb" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/textSummarizer/logging/__init__.py" beforeDir="false" afterPath="$PROJECT_DIR$/src/textSummarizer/logging/__init__.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/textSummarizer/utils/common.py" beforeDir="false" afterPath="$PROJECT_DIR$/src/textSummarizer/utils/common.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -45,6 +45,7 @@
     "RunOnceActivity.OpenProjectViewOnStart": "true",
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "git-widget-placeholder": "main",
+    "last_opened_file_path": "C:/Users/Admin/PycharmProjects/e2e-text-summarization",
     "node.js.detected.package.eslint": "true",
     "node.js.detected.package.tslint": "true",
     "node.js.selected.package.eslint": "(autodetect)",
@@ -55,7 +56,11 @@
   }
 }]]></component>
   <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\Admin\PycharmProjects\e2e-text-summarization" />
+    </key>
     <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\Admin\PycharmProjects\e2e-text-summarization\research" />
       <recent name="C:\Users\Admin\PycharmProjects\e2e-text-summarization" />
     </key>
   </component>
@@ -75,7 +80,7 @@
       <option name="presentableId" value="Default" />
       <updated>1707390195924</updated>
       <workItem from="1707390204335" duration="2878000" />
-      <workItem from="1707396150527" duration="5177000" />
+      <workItem from="1707396150527" duration="7558000" />
     </task>
     <servers />
   </component>
